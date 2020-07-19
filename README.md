@@ -1,3 +1,3 @@
-# ipizza
+A Pizza ordering system
 
-A pizza ordering system.
+This project was built with React and Laravel.
